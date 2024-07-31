@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sat, 27 Jul 2024 09:30:28 +0000
+MD5Sum:
+ f06131c326f1520355f1f053c1248599             1007 Packages
+ f221912aa71ad599675a4a1c6eb4d9bc              655 Packages.gz
+ bf4087200645a8b64f2fbd3a5751d001               38 Release
+SHA1:
+ 5aea62e30cba73fe6380e14dd6b69e84fbed147a             1007 Packages
+ 16d055b56e37290bc78f963448ef52495f4c3539              655 Packages.gz
+ 4089101a85ff2fb456e6ec5e3cf93a237a6c5aca               38 Release
+SHA256:
+ 3658df8ef5ee7099d711cd8bdb3c80256c06314197cbea257c819fc4d5f7d512             1007 Packages
+ 2b1f4d7836cd0ebeff36e0489af894daa3c72b9afed2bf57799b234f0c6fad28              655 Packages.gz
+ 7cb204302f539cc9691740fc9ab65485613fce48f5c9f728a45e45981856205b               38 Release
+SHA512:
+ a90bb4c0633f0f323f7c584c1654eb764f6d5ec20c803670c5decb775d342677fabe30fbde2b626c2a7e3cbe8e87b18ee72b61d5b0e76980d7e58eed02f48254             1007 Packages
+ 4bdde59372385a28d3844f1dc5c72d17597414b0225a2bf48a37847eb212874f92040e82ad0e2e2dc3f194a7199b7dd97fbd9517a042d7e0dc6e65a83b98e680              655 Packages.gz
+ 99c4454ede2fd06b1df08f14da2bed8b6da1796830690afa7f41df55acc3b9f52e8ac4d826118777011e49c52a1950f2ce2067fa5c6c2d809fbdc6eb9d1082c9               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEeU8WUGC4LVgseM8Homm0khn3yA0FAmakvjQACgkQomm0khn3
+yA2DoRAAodHLO/9nXrI59+qfJYOpTL6SGiQXcgkPIcfJHNUJ8FHNoLGEe6VmtUzi
+/BVYtdGo/GRdG8c4tMUgvXuT3o2zWgEsd98RoYwQB/aGTnDCTXD2SL3Bh//jSJdZ
+xnaf034aMawufOfjEzlzvfmfBSlgGXym8AJ87Eb9EQ01rAtK3fLgQvnI1qa7FGAe
+gka4u6VeYbWSWkIz7nW+DTRBIKTej1nniuC5KlVAqhcZXC143BjZb5NjncrzNMl5
+BfqEnDcw2wVqd0xdPbg+qkKPa5xn8Op+ZSl/TxyU1itYem71ISUvHt2X/Xx4gP3q
+52zLJM28Rp/ouPzJ+1C+olb8FsZgHuHRPkijLfPa9uScnlAhxywZnn58uDDIx1vH
+ahRNMY3N/flDz08IIBkjAf0Va+K81SYPrrvycijDhdvQKowrlP6mra0sAqtrMdgO
+Pp1VSqIx28MOAxRkEtLP7svOTxwGLCGbRtLHbqvruY7nu+SoI2/MTQC3w8ur0qZ3
+YMSwRsZ3ad0atiMmf+XXdhrRLraLz81lvTYDaX2Jotkuh+DTzgLXy6dzbZXFaf0s
+/FE7VVwc3yD/J1Yy/W2Fqyl2seXy8cgs+KXeu7BQLg5r3NpVWYYMZeNs4CpK2NQK
+F117bkvQIEwv6r+z1bWcat1zRTLoSCSuV3qd/4Bov1EVWfeGLRk=
+=R0s9
+-----END PGP SIGNATURE-----

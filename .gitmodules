@@ -1,0 +1,6 @@
+[submodule "dhcpy6d/themes/hugo-book"]
+	path = dhcpy6d/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "hugo-utils"]
+	path = hugo-utils
+	url = https://github.com/scivision/hugo-utils
